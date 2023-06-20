@@ -1,0 +1,194 @@
+.nav-icon {
+    color: blue; /* Set the color for nav icons */
+  }
+  
+  .icon {
+    color: red; /* Set the color for other icons */
+  }
+  
+  /* Add styles for other icons if needed */
+  .checkbox-input {
+    border: 2px solid red;
+  }
+
+
+/* .movestyle{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+} */
+
+
+.movestyle {
+  margin-top: 20px;
+}
+
+.move-details-row {
+  justify-content: center;
+}
+
+.move-details-column {
+  max-width: 800px;
+}
+
+.my-moves-section {
+  margin-bottom: 20px;
+}
+
+.move-list {
+  list-style: none;
+  padding: 0;
+}
+
+.move-item {
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.move-item.active {
+  background-color: #e6e6e6;
+}
+
+.move-item-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.arrow-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.arrow-icon {
+  font-size: 20px;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.icon-with-pencil {
+  display: flex;
+  align-items: center;
+}
+
+.pencil-icon {
+  margin-left: 5px;
+  font-size: 18px;
+}
+
+.custom-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.custom-button.active {
+  background-color: #dc3545;
+}
+
+.move-details-section {
+  margin-top: 20px;
+}
+
+.red-text {
+  color: red;
+}
+.movestyle {
+    margin-top: 20px;
+  }
+  
+  .move-details-row {
+    justify-content: center;
+  }
+  
+  .move-details-column {
+    max-width: 800px;
+  }
+  
+  .my-moves-section {
+    margin-bottom: 20px;
+  }
+  
+  .move-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .move-item {
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .move-item.active {
+    background-color: #e6e6e6;
+  }
+  
+  .move-item-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .arrow-col {
+    display: flex;
+    align-items: center;
+  }
+  
+  .arrow-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .arrow-icon {
+    font-size: 20px;
+  }
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  .icon-with-pencil {
+    display: flex;
+    align-items: center;
+  }
+  
+  .pencil-icon {
+    margin-left: 5px;
+    font-size: 18px;
+  }
+  
+  .custom-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .custom-button.active {
+    background-color: #dc3545;
+  }
+  
+  .move-details-section {
+    margin-top: 20px;
+  }
+  
+  .red-text {
+    color: red;
+  }
